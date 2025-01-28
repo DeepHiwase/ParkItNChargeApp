@@ -4,6 +4,7 @@ const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
 const mongoose = require('mongoose')
 const tryCatch = require('./utils/tryCatch')
+const auth = require('../middlewares/auth')
 
 usersRouter.post(
   '/register',
@@ -70,5 +71,15 @@ usersRouter.post(
     res.status(200).json({ success: true, token })
   })
 )
+
+usersRouter.patch('/updateProfile', auth, tryCatch(async (req, res) => {
+  const updatedUser = await User.findByIdAndUpdate(req.user.id, req.body, { new: true })
+  const { _id: id, name, photoURL } = updatedUser
+
+  const token = jwt.sign({ id, name, photoURL }, process.env.JWT_SECRET, {
+    expiresIn: '1h',
+  })
+  res.status(200).json({ success: true, result: { name, photoURL, token } })
+}))
 
 module.exports = usersRouter
