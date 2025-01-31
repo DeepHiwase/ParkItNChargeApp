@@ -5,6 +5,7 @@ const jwt = require('jsonwebtoken')
 const mongoose = require('mongoose')
 const tryCatch = require('./utils/tryCatch')
 const auth = require('../middlewares/auth')
+const Station = require('../models/Station')
 
 usersRouter.post(
   '/register',
@@ -75,6 +76,8 @@ usersRouter.post(
 usersRouter.patch('/updateProfile', auth, tryCatch(async (req, res) => {
   const updatedUser = await User.findByIdAndUpdate(req.user.id, req.body, { new: true })
   const { _id: id, name, photoURL } = updatedUser
+
+  await Station.updateMany({uid: id}, {uName: name, uPhoto: photoURL})
 
   const token = jwt.sign({ id, name, photoURL }, process.env.JWT_SECRET, {
     expiresIn: '1h',

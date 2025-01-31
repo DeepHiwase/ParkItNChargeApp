@@ -16,4 +16,12 @@ stationsRouter.post(
   })
 )
 
+stationsRouter.get(
+  '/',
+  tryCatch(async (req, res) => {
+    const stations = await Station.find({}).sort({ _id: -1 }) //sorted by adding new one to old one
+    res.status(200).json({ success: true, result: stations })
+  })
+)
+
 module.exports = stationsRouter
