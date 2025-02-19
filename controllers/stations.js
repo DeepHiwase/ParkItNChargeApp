@@ -11,7 +11,6 @@ stationsRouter.post(
     const { id: uid, name: uName, photoURL: uPhoto } = req.user
     const newStation = new Station({ ...req.body, uid, uName, uPhoto })
     await newStation.save()
-    mongoose.connection.close()
     res.status(201).json({ success: true, result: newStation })
   })
 )
