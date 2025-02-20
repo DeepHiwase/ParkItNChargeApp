@@ -1,5 +1,29 @@
 const mongoose = require('mongoose')
 
+const feedbackSchema = mongoose.Schema({
+  text: {
+    type: String,
+    required: true
+  },
+  rating: {
+    type: Number,
+    required: true,
+    min: 1,
+    max: 5
+  },
+  sentiment: {
+    type: String,
+    enum: ['positive', 'neutral', 'negative']
+  },
+  confidence: Number,
+  createdAt: {
+    type: Date,
+    default: Date.now
+  },
+  userId: String,
+  userName: String
+})
+
 const stationSchema = mongoose.Schema(
   {
     lng: { type: Number, required: true },
@@ -16,6 +40,15 @@ const stationSchema = mongoose.Schema(
     uid: { type: String, required: true },
     uName: { type: String, required: true },
     uPhoto: { type: String, default: '' },
+    feedback: [feedbackSchema],
+    averageRating: {
+      type: Number,
+      default: 0
+    },
+    totalRatings: {
+      type: Number,
+      default: 0
+    }
   },
   { timestampS: true }
 )

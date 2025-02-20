@@ -1,0 +1,1836 @@
+{
+  "feedback": [
+    {
+      "text": "Great charging speed, station was clean and well maintained",
+      "rating": 5
+    },
+    {
+      "text": "Charger was broken, wasted 30 minutes waiting",
+      "rating": 1
+    },
+    {
+      "text": "Average experience, had to wait in queue",
+      "rating": 3
+    },
+    {
+      "text": "Excellent service, no waiting time at all",
+      "rating": 5
+    },
+    {
+      "text": "Charging port was dirty and not functioning properly",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, easy to access",
+      "rating": 4
+    },
+    {
+      "text": "Had to wait for 20 minutes, but the charging was fast",
+      "rating": 3
+    },
+    {
+      "text": "The station was under maintenance, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Super fast charging, very impressed",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took double the expected time",
+      "rating": 2
+    },
+    {
+      "text": "Clean and tidy station, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The app showed available chargers but all were occupied",
+      "rating": 2
+    },
+    {
+      "text": "Friendly staff, helped with the charging process",
+      "rating": 4
+    },
+    {
+      "text": "Charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but a bit pricey",
+      "rating": 3
+    },
+    {
+      "text": "No waiting time, charging was quick and efficient",
+      "rating": 5
+    },
+    {
+      "text": "The station was crowded, had to wait for 30 minutes",
+      "rating": 2
+    },
+    {
+      "text": "Charging speed was as expected, no complaints",
+      "rating": 4
+    },
+    {
+      "text": "The charger was not compatible with my vehicle",
+      "rating": 1
+    },
+    {
+      "text": "Very clean station, well-organized and easy to use",
+      "rating": 5
+    },
+    {
+      "text": "The charger stopped working midway, very frustrating",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 15 minutes, but the service was good",
+      "rating": 3
+    },
+    {
+      "text": "The station was easy to find, charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The charger was slow and the station was dirty",
+      "rating": 2
+    },
+    {
+      "text": "Excellent experience, will definitely come back",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "Good location, but the charging speed was average",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to find another station",
+      "rating": 1
+    },
+    {
+      "text": "The station was clean, but the charger was slow",
+      "rating": 3
+    },
+    {
+      "text": "Very fast charging, no issues at all",
+      "rating": 5
+    },
+    {
+      "text": "The charger was out of service, no prior notice",
+      "rating": 1
+    },
+    {
+      "text": "Had to wait for 10 minutes, but the charging was fast",
+      "rating": 4
+    },
+    {
+      "text": "The station was well-maintained, no complaints",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow and the station was crowded",
+      "rating": 2
+    },
+    {
+      "text": "Excellent service, very satisfied with the experience",
+      "rating": 5
+    },
+    {
+      "text": "The charger was not working, had to wait for 20 minutes",
+      "rating": 1
+    },
+    {
+      "text": "Good experience overall, but the waiting time was long",
+      "rating": 3
+    },
+    {
+      "text": "The station was clean and the charging was fast",
+      "rating": 5
+    },
+    {
+      "text": "The charger was slow, took longer than expected",
+      "rating": 2
+    },
+    {
+      "text": "Very convenient location, charging was quick",
+      "rating": 4
+    },
+    {
+      "text": "The charger was out of order, no alternative provided",
+      "rating": 1
+    },
+    {
+      "text": "Good experience, but the station was a bit crowded",
+      "rating": 3
+    },
+    {
+      "text": "The charging speed was excellent, no waiting time",
+      "rating": 5
+    }
+  ]
+}
