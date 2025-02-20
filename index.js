@@ -12,6 +12,7 @@ const port = process.env.PORT || 3001
 const app = express()
 
 app.use(cors())
+app.use(express.static('./dist'))
 app.use(express.json({ limit: '10mb' }))
 app.use(requestLogger)
 app.use('/api/users', userRouter)
