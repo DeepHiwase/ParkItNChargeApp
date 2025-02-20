@@ -17,7 +17,7 @@ app.use(express.json({ limit: '10mb' }))
 app.use(requestLogger)
 app.use('/api/users', userRouter)
 app.use('/api/stations', stationsRouter)
-app.get('/', (req, res) => res.json({ message: 'Welcome to our API' }))
+// app.get('/', (req, res) => res.json({ message: 'Welcome to our API' }))
 
 app.use(unknownEndpoint)
 app.use(errorHandler)
