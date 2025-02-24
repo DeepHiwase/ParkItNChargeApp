@@ -57,16 +57,14 @@ usersRouter.post(
       return res.status(404).json({ success: false, message: 'User does not exist!' })
     }
   
-    console.log(password, existedUser.password)
     const correctPassword = await bcrypt.compare(password, existedUser.passwordHash)
-    console.log(correctPassword)
     if (!correctPassword) {
       return res.status(400).json({ success: false, message: 'Invalid credentials' })
     }
   
     const { _id: id, name, photoURL } = existedUser
     const token = jwt.sign({ id, name, photoURL }, process.env.JWT_SECRET, {
-      expiresIn: '1h',
+      expiresIn: '1d',
     })
   
     res.status(200).json({ success: true, token })
